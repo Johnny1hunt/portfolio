@@ -80,6 +80,9 @@ nav a.btn:hover { color: #06121f; }
 .tags { display: flex; flex-wrap: wrap; gap: 8px; }
 .tags li { font-size: 0.85rem; padding: 4px 12px; border-radius: 999px; background: rgba(56, 189, 248, 0.12); color: var(--accent); }
 
+.cert .issuer { color: var(--accent); font-weight: 600; font-size: 0.9rem; margin-top: -8px; }
+.cert .date { font-size: 0.85rem; font-style: italic; color: #94a3b8; margin-top: 2px; }
+.cert p:last-child { margin-top: 10px; font-size: 0.95rem; }
 .project p { margin-top: 6px; font-size: 0.95rem; }
 .status { display: inline-block; font-size: 0.75rem; padding: 3px 10px; border-radius: 999px; background: rgba(250, 204, 21, 0.15); color: #facc15; margin-bottom: 10px; }
 

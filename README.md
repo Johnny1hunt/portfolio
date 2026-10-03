@@ -9,7 +9,7 @@ My personal portfolio, built with HTML, CSS, and JavaScript.
 - Clean dark theme with reusable styles
 
 ## Sections
-About · Skills · Experience · Projects · Contact
+About · Skills · Experience · Certificates · Projects · Contact
 
 ## Run it locally
 1. Download or clone this repository.
